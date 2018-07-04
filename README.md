@@ -11,4 +11,6 @@ of parameters (that somebody can input) were created statistically, and script w
 I was just counting how many times Catia coudn't update itself due to impossible geometry, this was considered as failed case.
 
 So for details of above use cases, don't hesitate to contact me :)
-Thank you.
+
+Thank you,
+Aleksa
