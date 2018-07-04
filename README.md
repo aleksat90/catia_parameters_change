@@ -1,4 +1,4 @@
-# Catia automatisation testing script
+# Catia automation testing script
 
 This script in simplified way updates Catia 3D model to the desired value automaticly.
 
